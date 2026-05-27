@@ -1,0 +1,15 @@
+# Raw clinical files (PDS / Eli Lilly)
+*.sas7bdat
+*.parquet
+*.csv
+*.xlsx
+*.zip
+*.pdf
+
+# Temporary Python / Jupyter files
+.ipynb_checkpoints/
+__pycache__/
+*.log
+
+# Hidden system files
+.DS_Store
